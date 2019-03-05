@@ -9,6 +9,7 @@ API Design](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
 * [Microservice Architectures for Advanced Driver
 Assistance Systems: A Case-Study](https://arxiv.org/abs/1902.09140)
 * [From Monolithic to Microservices: An experience report](https://www.researchgate.net/publication/318653629_From_Monolithic_to_Microservices_An_experience_report)
+* [Everything You Always Wanted to Know AboutSynchronization but Were Afraid to Ask](http://webcache.googleusercontent.com/search?q=cache:http://sigops.org/s/conferences/sosp/2013/papers/p33-david.pdf)
 
 ## Cache
 * [An O(1) algorithm for implementing the LFU
