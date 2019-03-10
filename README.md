@@ -16,3 +16,7 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 ## Cache
 * [An O(1) algorithm for implementing the LFU
 cache eviction scheme](http://dhruvbird.com/lfu.pdf)
+
+## Worker
+
+* [Job-Shop Scheduling Using Neural Networks](https://www.researchgate.net/publication/2751393_Job-Shop_Scheduling_Using_Neural_Networks)
