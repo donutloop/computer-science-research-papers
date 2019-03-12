@@ -20,3 +20,7 @@ cache eviction scheme](http://dhruvbird.com/lfu.pdf)
 ## Worker
 
 * [Job-Shop Scheduling Using Neural Networks](https://www.researchgate.net/publication/2751393_Job-Shop_Scheduling_Using_Neural_Networks)
+
+## Applications 
+
+* [Effective performance of information retrieval on web by using web crawling](https://arxiv.org/abs/1205.2891)
