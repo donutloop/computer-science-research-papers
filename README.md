@@ -12,6 +12,7 @@ Assistance Systems: A Case-Study](https://arxiv.org/abs/1902.09140)
 * [Everything You Always Wanted to Know AboutSynchronization but Were Afraid to Ask](http://webcache.googleusercontent.com/search?q=cache:http://sigops.org/s/conferences/sosp/2013/papers/p33-david.pdf)
 * [Microservices: Migration of
 a Mission Critical System](https://arxiv.org/abs/1704.04173)
+*[An Overview of Approaches Used In Focused Crawlers](https://www.irjet.net/archives/V2/i9/IRJET-V2I9115.pdf)
 
 ## Cache
 * [An O(1) algorithm for implementing the LFU
