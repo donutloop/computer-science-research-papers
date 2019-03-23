@@ -27,3 +27,7 @@ cache eviction scheme](http://dhruvbird.com/lfu.pdf)https://www.usenix.org/legac
 ## Applications 
 
 * [Effective performance of information retrieval on web by using web crawling](https://arxiv.org/abs/1205.2891)
+
+## Languages
+
+* [Programming Paradigms: What Every Programmer Should Know](http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf)
