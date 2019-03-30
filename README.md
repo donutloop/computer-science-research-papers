@@ -31,3 +31,8 @@ cache eviction scheme](http://dhruvbird.com/lfu.pdf)https://www.usenix.org/legac
 ## Languages
 
 * [Programming Paradigms: What Every Programmer Should Know](http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf)
+
+## Database 
+
+* [Calvin: Fast Distributed Transactions
+for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
