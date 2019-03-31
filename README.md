@@ -36,3 +36,5 @@ cache eviction scheme](http://dhruvbird.com/lfu.pdf)https://www.usenix.org/legac
 
 * [Calvin: Fast Distributed Transactions
 for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
+* [Amazon Aurora: Design Considerations for High
+Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
