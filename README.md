@@ -41,3 +41,7 @@ for Data Analytics Clusters](https://arxiv.org/pdf/1703.08280v1.pdf)
 for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 * [Amazon Aurora: Design Considerations for High
 Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
+
+## Web crawler
+
+* [Google’s Deep-Web Crawl](https://homes.cs.washington.edu/~alon/files/vldb08deepweb.pdf)
