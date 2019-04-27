@@ -34,6 +34,8 @@ for Data Analytics Clusters](https://arxiv.org/pdf/1703.08280v1.pdf)
 ## Languages
 
 * [Programming Paradigms: What Every Programmer Should Know](http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf)
+* [LLVM: A Compilation Framework for
+Lifelong Program Analysis & Transformation](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
 
 ## Database 
 
