@@ -16,6 +16,10 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 * [SMARTCRAWLER: A TWO-STAGE CRAWLER FOR EFFICIENT SEARCH RESULT](https://www.irjet.net/archives/V3/i5/IRJET-V3I5668.pdf)
 * [The Science of Software and System Design](https://research.aalto.fi/files/30073566/SCI_Tripakis_science_of_software_IfacPapers.pdf)
 
+## Linked list 
+
+* [Lock-Free Linked Lists and Skip Lists](http://www.cse.yorku.ca/~ruppert/papers/lfll.pdf)
+
 ## Cache
 * [An O(1) algorithm for implementing the LFU
 cache eviction scheme](http://dhruvbird.com/lfu.pdf)https://www.usenix.org/legacy/event/fast03/tech/full_papers/megiddo/megiddo.pdf
