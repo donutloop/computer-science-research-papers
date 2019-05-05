@@ -16,6 +16,10 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 * [SMARTCRAWLER: A TWO-STAGE CRAWLER FOR EFFICIENT SEARCH RESULT](https://www.irjet.net/archives/V3/i5/IRJET-V3I5668.pdf)
 * [The Science of Software and System Design](https://research.aalto.fi/files/30073566/SCI_Tripakis_science_of_software_IfacPapers.pdf)
 
+## Sync 
+
+* [concurrent data structures](https://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf)
+
 ## Linked list 
 
 * [Lock-Free Linked Lists and Skip Lists](http://www.cse.yorku.ca/~ruppert/papers/lfll.pdf)
