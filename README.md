@@ -55,3 +55,7 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 ## Web crawler
 
 * [Google’s Deep-Web Crawl](https://homes.cs.washington.edu/~alon/files/vldb08deepweb.pdf)
+
+## Tree
+
+* [A Concurrency-Optimal Binary Search Tree](https://arxiv.org/pdf/1702.04441.pdf)
