@@ -26,7 +26,7 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 
 ## Cache
 * [An O(1) algorithm for implementing the LFU
-cache eviction scheme](http://dhruvbird.com/lfu.pdf)https://www.usenix.org/legacy/event/fast03/tech/full_papers/megiddo/megiddo.pdf
+cache eviction scheme](http://dhruvbird.com/lfu.pdf)
 * [SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/event/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [LRC: Dependency-Aware Cache Management
 for Data Analytics Clusters](https://arxiv.org/pdf/1703.08280v1.pdf) 
