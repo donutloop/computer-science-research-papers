@@ -15,6 +15,7 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 * [An Overview of Approaches Used In Focused Crawlers](https://www.irjet.net/archives/V2/i9/IRJET-V2I9115.pdf)
 * [SMARTCRAWLER: A TWO-STAGE CRAWLER FOR EFFICIENT SEARCH RESULT](https://www.irjet.net/archives/V3/i5/IRJET-V3I5668.pdf)
 * [The Science of Software and System Design](https://research.aalto.fi/files/30073566/SCI_Tripakis_science_of_software_IfacPapers.pdf)
+* [A Service Oriented Architecture Approach for an E-Business Platform](https://www.researchgate.net/publication/327009447_A_Service_Oriented_Architecture_Approach_for_an_E-Business_Platform)
 
 ## Sync 
 
