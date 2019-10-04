@@ -18,6 +18,9 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 * [A Service Oriented Architecture Approach for an E-Business Platform](https://www.researchgate.net/publication/327009447_A_Service_Oriented_Architecture_Approach_for_an_E-Business_Platform)
 * [View-Centric Performance Optimization for
 Database-Backed Web Applications](https://people.cs.uchicago.edu/~shanlu/paper/panorama.pdf)
+* [No Silver Bullet
+—Essence and Accident in Software Engineering]
+(http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
 ## Sync 
 
