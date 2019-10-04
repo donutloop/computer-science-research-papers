@@ -19,8 +19,7 @@ a Mission Critical System](https://arxiv.org/abs/1704.04173)
 * [View-Centric Performance Optimization for
 Database-Backed Web Applications](https://people.cs.uchicago.edu/~shanlu/paper/panorama.pdf)
 * [No Silver Bullet
-—Essence and Accident in Software Engineering]
-(http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+—Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
 ## Sync 
 
