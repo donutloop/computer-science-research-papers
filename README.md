@@ -27,7 +27,8 @@ Database-Backed Web Applications](https://people.cs.uchicago.edu/~shanlu/paper/p
 
 ## Linked list 
 
-* [Lock-Free Linked Lists and Skip Lists](http://www.cse.yorku.ca/~ruppert/papers/lfll.pdf)
+* [Lock-Free Linked Lists and Skip Lists](http://www.cse.yorku.ca/~rppert/papers/lfll.pdf)
+* [Skip Lists: A Probabilistic Alternative to Balanced Trees](https://epaperpress.com/sortsearch/download/skiplist.pdf)
 
 ## Cache
 * [An O(1) algorithm for implementing the LFU
