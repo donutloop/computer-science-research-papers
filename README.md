@@ -51,6 +51,7 @@ for Data Analytics Clusters](https://arxiv.org/pdf/1703.08280v1.pdf)
 * [LLVM: A Compilation Framework for
 Lifelong Program Analysis & Transformation](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
 * [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
+* [Large Scale Unit Testing for Go Packages](https://www.researchgate.net/profile/Kean_Ho_Chew/publication/335712808_Large_Scale_Unit_Testing_for_Go_Programming_Language_Packages/links/5d770d814585151ee4ab12f8/Large-Scale-Unit-Testing-for-Go-Programming-Language-Packages.pdf)
 
 ## Database 
 
