@@ -21,6 +21,10 @@ Database-Backed Web Applications](https://people.cs.uchicago.edu/~shanlu/paper/p
 * [No Silver Bullet
 —Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
+# Sort 
+
+* [Merge sort](https://pdfs.semanticscholar.org/6804/987ab63d1879aa55ba68224dced142ce8774.pdf)
+
 ## Sync 
 
 * [concurrent data structures](https://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf)
