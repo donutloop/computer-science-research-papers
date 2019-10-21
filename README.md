@@ -26,6 +26,7 @@ Database-Backed Web Applications](https://people.cs.uchicago.edu/~shanlu/paper/p
 * [Merge sort](https://pdfs.semanticscholar.org/6804/987ab63d1879aa55ba68224dced142ce8774.pdf)
 * [An Approach to Improve the Performance
 of Insertion Sort Algorithm](http://ijcset.com/docs/IJCSET13-04-05-068.pdf)
+* [Improving the performance of bubble sort using a modified diminishing increment sortingImproving the performance of bubble sort using a modified diminishing increment sorting](https://www.researchgate.net/publication/228949866_Improving_the_performance_of_bubble_sort_using_a_modified_diminishing_increment_sorting)
 
 ## Sync 
 
