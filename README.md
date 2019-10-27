@@ -36,6 +36,7 @@ of Insertion Sort Algorithm](http://ijcset.com/docs/IJCSET13-04-05-068.pdf)
 
 * [Lock-Free Linked Lists and Skip Lists](http://www.cse.yorku.ca/~rppert/papers/lfll.pdf)
 * [Skip Lists: A Probabilistic Alternative to Balanced Trees](https://epaperpress.com/sortsearch/download/skiplist.pdf)
+* [The S-Linked List – A Variant Of The Linked List Data Structure](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.9426&rep=rep1&type=pdf)
 
 ## Cache
 * [An O(1) algorithm for implementing the LFU
