@@ -76,6 +76,7 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 
 * [Google’s Deep-Web Crawl](https://homes.cs.washington.edu/~alon/files/vldb08deepweb.pdf)
 * [Cloud Based Web Scraping for Big Data Applications](https://www.researchgate.net/profile/Santosh_Pandey18/publication/321260574_Cloud_Based_Web_Scraping_for_Big_Data_Applications/links/5b72a451299bf14c6da19fb0/Cloud-Based-Web-Scraping-for-Big-Data-Applications.pdf)
+* [A Methodical Study of Web Crawler](http://www.ijera.com/papers/vol8no11/p1/A0811010108.pdf)
 
 ## Tree
 
