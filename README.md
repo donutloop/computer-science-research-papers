@@ -81,3 +81,9 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 ## Tree
 
 * [A Concurrency-Optimal Binary Search Tree](https://arxiv.org/pdf/1702.04441.pdf)
+
+## PubSub 
+
+* [The hidden pub/sub of spotify](https://www.researchgate.net/publication/262165825_The_hidden_pubsub_of_spotify)
+
+
