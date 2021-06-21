@@ -84,6 +84,10 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 
 ## PubSub 
 
-* [The hidden pub/sub of spotify](https://www.researchgate.net/publication/262165825_The_hidden_pubsub_of_spotify)
+* [The hidden pub/sub of spotify](https://www.researchgate.net/publication/262165825_The_hidden_pubsub_of_spotify)/
+
+## Cryptcurrency 
+
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 
 
