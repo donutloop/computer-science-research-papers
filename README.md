@@ -89,5 +89,8 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 ## Cryptcurrency 
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+* [Time, Clocks, and the
+Ordering of Events in
+a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 
