@@ -93,4 +93,8 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 Ordering of Events in
 a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
+# Distributed systems 
+
+* [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
 
