@@ -96,5 +96,6 @@ a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 # Distributed systems 
 
 * [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* [GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
 
