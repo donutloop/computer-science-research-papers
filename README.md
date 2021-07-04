@@ -97,5 +97,5 @@ a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 * [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-
+* [Raft extended](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
 
