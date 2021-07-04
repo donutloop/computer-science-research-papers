@@ -1,6 +1,8 @@
 # computer-science-research-papers
 Collection of computer science research papers
 
+Use speechify
+
 ## Api design
 
 * [The Little Manual of
