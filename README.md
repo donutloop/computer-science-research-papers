@@ -94,6 +94,7 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 * [Time, Clocks, and the
 Ordering of Events in
 a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+* [Elrond](https://elrond.com/assets/files/elrond-whitepaper.pdf)
 
 # Distributed systems 
 
