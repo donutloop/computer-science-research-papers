@@ -95,10 +95,12 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 Ordering of Events in
 a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Elrond](https://elrond.com/assets/files/elrond-whitepaper.pdf)
+* [Nano](https://content.nano.org/whitepaper/Nano_Whitepaper_en.pdf)
 
 # Distributed systems 
 
 * [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [Raft extended](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
+
 
