@@ -99,6 +99,7 @@ Ordering of Events in
 a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Elrond](https://elrond.com/assets/files/elrond-whitepaper.pdf)
 * [Nano](https://content.nano.org/whitepaper/Nano_Whitepaper_en.pdf)
+* [Tether](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf)
 
 # Distributed systems 
 
