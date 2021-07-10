@@ -73,6 +73,8 @@ Lifelong Program Analysis & Transformation](https://llvm.org/pubs/2004-01-30-CGO
 for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 * [Amazon Aurora: Design Considerations for High
 Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
+* (A Relational Model of Data for
+Large Shared Data Banks)[https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf]
 
 ## Web crawler
 
