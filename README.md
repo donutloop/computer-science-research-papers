@@ -50,6 +50,8 @@ cache eviction scheme](http://dhruvbird.com/lfu.pdf)
 * [SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/event/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [LRC: Dependency-Aware Cache Management
 for Data Analytics Clusters](https://arxiv.org/pdf/1703.08280v1.pdf) 
+* [DATA CACHEPREFETCHING USING
+A GLOBAL HISTORY BUFFER](https://minds.wisconsin.edu/bitstream/handle/1793/11158/file_1.pdf;jsessionid=C04F39F1E3477FBC9B6F9F8EEB5BEADD?sequence=1)
 
 ## Worker
 
