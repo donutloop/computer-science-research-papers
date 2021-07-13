@@ -3,6 +3,10 @@ Collection of computer science research papers
 
 Use speechify
 
+## Data 
+
+* [Array Programming with NumPy](https://arxiv.org/pdf/2006.10256.pdf)
+
 ## Api design
 
 * [The Little Manual of
