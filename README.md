@@ -116,4 +116,9 @@ a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Raft extended](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
 * [Distributed execution of communicating sequential process-style concurrency: Golang case study](https://www.researchgate.net/publication/328344993_Distributed_execution_of_communicating_sequential_process-style_concurrency_Golang_case_study)
 
+# Golang 
+
+* [GodExpo: An Automated God Structure Detection
+Tool for Golang](https://www.researchgate.net/publication/335935256_GodExpo_An_Automated_God_Structure_Detection_Tool_for_Golang)
+
 
