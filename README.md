@@ -9,6 +9,8 @@ Use speechify
 
 ## Testing
 * [RESTler](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/RESTler.pdf)
+* [Checking Security Properties of
+Cloud Service REST APIs](https://patricegodefroid.github.io/public_psfiles/icst2020.pdf)
 
 ## Api design
 
