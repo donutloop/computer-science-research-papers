@@ -7,6 +7,9 @@ Use speechify
 
 * [Array Programming with NumPy](https://arxiv.org/pdf/2006.10256.pdf)
 
+# Testing
+* [RESTler](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/RESTler.pdf)
+
 ## Api design
 
 * [The Little Manual of
