@@ -7,7 +7,7 @@ Use speechify
 
 * [Array Programming with NumPy](https://arxiv.org/pdf/2006.10256.pdf)
 
-# Testing
+## Testing
 * [RESTler](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/RESTler.pdf)
 
 ## Api design
@@ -112,14 +112,14 @@ a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Tether](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf)
 * [Terra](https://www.terra.money/Terra_White_paper.pdf)
 
-# Distributed systems 
+## Distributed systems 
 
 * [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [Raft extended](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
 * [Distributed execution of communicating sequential process-style concurrency: Golang case study](https://www.researchgate.net/publication/328344993_Distributed_execution_of_communicating_sequential_process-style_concurrency_Golang_case_study)
 
-# Golang 
+## Golang 
 
 * [GodExpo: An Automated God Structure Detection
 Tool for Golang](https://www.researchgate.net/publication/335935256_GodExpo_An_Automated_God_Structure_Detection_Tool_for_Golang)
