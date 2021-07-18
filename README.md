@@ -42,6 +42,8 @@ of Insertion Sort Algorithm](http://ijcset.com/docs/IJCSET13-04-05-068.pdf)
 ## Transport 
 
 * [SCTP in Go](https://2013.asiabsdcon.org/papers/abc2013-P7A-paper.pdf)
+* [Measuring HTTP/3:
+Adoption and Performance](https://arxiv.org/pdf/2102.12358.pdf)
 
 ## Sync 
 
