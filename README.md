@@ -88,6 +88,7 @@ Throughput Cloud-Native Relational Databases](https://www.allthingsdistributed.c
 Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 * [OceanStore: An Architecture for Global-Scale Persistent Storage](https://oceanstore.cs.berkeley.edu/publications/papers/pdf/asplos00.pdf)
 * [Scalable SQL and NoSQL data stores](https://www.researchgate.net/publication/220415613_Scalable_SQL_and_NoSQL_data_stores)
+* [ODBAPI: a unified REST API for relational and NoSQL data stores](https://www.researchgate.net/publication/265846650_ODBAPI_a_unified_REST_API_for_relational_and_NoSQL_data_stores)
 
 ## Web crawler
 
