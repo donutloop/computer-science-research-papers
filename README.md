@@ -116,6 +116,8 @@ a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Nano](https://content.nano.org/whitepaper/Nano_Whitepaper_en.pdf)
 * [Tether](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf)
 * [Terra](https://www.terra.money/Terra_White_paper.pdf)
+* [Bitcoin and Beyond:
+A Technical Survey on Decentralized Digital Currencies](https://eprint.iacr.org/2015/464.pdf)
 
 ## Distributed systems 
 
