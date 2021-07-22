@@ -118,6 +118,7 @@ a Distributed System ](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Terra](https://www.terra.money/Terra_White_paper.pdf)
 * [Bitcoin and Beyond:
 A Technical Survey on Decentralized Digital Currencies](https://eprint.iacr.org/2015/464.pdf)
+* (An Overview of Blockchain Technology: Architecture, Consensus, and Future Trends)[file:///home/donutloop/Downloads/1996a557.pdf]
 
 ## Distributed systems 
 
