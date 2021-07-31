@@ -127,10 +127,15 @@ A Technical Survey on Decentralized Digital Currencies](https://eprint.iacr.org/
 * [Raft extended](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
 * [Distributed execution of communicating sequential process-style concurrency: Golang case study](https://www.researchgate.net/publication/328344993_Distributed_execution_of_communicating_sequential_process-style_concurrency_Golang_case_study)
 * [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+* [In Reference
+to RPC: It’s Time to Add Distributed Memory](https://dl.acm.org/doi/pdf/10.1145/3458336.3465302)
+
 
 ## Golang 
 
 * [GodExpo: An Automated God Structure Detection
 Tool for Golang](https://www.researchgate.net/publication/335935256_GodExpo_An_Automated_God_Structure_Detection_Tool_for_Golang)
+
+
 
 
