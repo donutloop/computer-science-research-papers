@@ -139,3 +139,9 @@ Tool for Golang](https://www.researchgate.net/publication/335935256_GodExpo_An_A
 
 ## Kernels
 * [Unikernels: The Next Stage of Linux's Dominance](https://www.researchgate.net/publication/332329656_Unikernels_The_Next_Stage_of_Linux's_Dominance)
+
+## Serverless
+* [Serverless in the Wild: Characterizing and Optimizing
+the Serverless Workload at a Large Cloud Provider](https://arxiv.org/pdf/2003.03423.pdf)
+
+
