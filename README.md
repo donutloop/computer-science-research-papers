@@ -147,3 +147,9 @@ the Serverless Workload at a Large Cloud Provider](https://arxiv.org/pdf/2003.03
 * [A Serverless FaaS-Architecture: Experiences from an Implementation in the Core Banking Domain](https://www.techrxiv.org/articles/preprint/A_Serverless_FaaS-Architecture_Experiences_from_an_Implementation_in_the_Core_Banking_Domain/14135813)
 * [Migrating from Monolithic to Serverless: A FinTech Case Study](https://www.researchgate.net/publication/340681076_Migrating_from_Monolithic_to_Serverless_A_FinTech_Case_Study)
 
+
+# Kubernetes 
+
+* [Kubernetes as an Availability Manager for
+Microservice Applications](https://arxiv.org/pdf/1901.04946.pdf)
+
