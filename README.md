@@ -129,6 +129,8 @@ A Technical Survey on Decentralized Digital Currencies](https://eprint.iacr.org/
 * [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [In Reference
 to RPC: It’s Time to Add Distributed Memory](https://dl.acm.org/doi/pdf/10.1145/3458336.3465302)
+* [A Comparative Review of Microservices and
+Monolithic Architectures](https://arxiv.org/pdf/1905.07997.pdf)
 
 
 ## Golang 
@@ -148,8 +150,8 @@ the Serverless Workload at a Large Cloud Provider](https://arxiv.org/pdf/2003.03
 * [Migrating from Monolithic to Serverless: A FinTech Case Study](https://www.researchgate.net/publication/340681076_Migrating_from_Monolithic_to_Serverless_A_FinTech_Case_Study)
 
 
-# Kubernetes 
+## Kubernetes 
 
 * [Kubernetes as an Availability Manager for
-Microservice Applications](https://arxiv.org/pdf/1901.04946.pdf)
+service Applications](https://arxiv.org/pdf/1901.04946.pdf)
 
