@@ -131,6 +131,8 @@ A Technical Survey on Decentralized Digital Currencies](https://eprint.iacr.org/
 to RPC: It’s Time to Add Distributed Memory](https://dl.acm.org/doi/pdf/10.1145/3458336.3465302)
 * [A Comparative Review of Microservices and
 Monolithic Architectures](https://arxiv.org/pdf/1905.07997.pdf)
+* [Understanding Security Implications of Using
+Containers in the Cloud](https://www.usenix.org/system/files/conference/atc17/atc17-tak-paper.pdf)
 
 
 ## Golang 
