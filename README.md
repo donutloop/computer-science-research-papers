@@ -150,6 +150,7 @@ the Serverless Workload at a Large Cloud Provider](https://arxiv.org/pdf/2003.03
 * [Serverless Computing: A Survey of Opportunities,Challenges, and Application](https://arxiv.org/pdf/1911.01296.pdf)
 * [A Serverless FaaS-Architecture: Experiences from an Implementation in the Core Banking Domain](https://www.techrxiv.org/articles/preprint/A_Serverless_FaaS-Architecture_Experiences_from_an_Implementation_in_the_Core_Banking_Domain/14135813)
 * [Migrating from Monolithic to Serverless: A FinTech Case Study](https://www.researchgate.net/publication/340681076_Migrating_from_Monolithic_to_Serverless_A_FinTech_Case_Study)
+* [A lightweight design for serverless Function-as-a-Service](https://arxiv.org/abs/2010.07115)
 
 
 ## Kubernetes 
