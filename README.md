@@ -137,6 +137,8 @@ Containers in the Cloud](https://www.usenix.org/system/files/conference/atc17/at
 * [The current design and implementation of the
 AstroDS Data Aggregation Service
 ?](https://arxiv.org/pdf/2010.04944.pdf)
+* [Authentication and authorization in microservice-based systems: survey of architecture patterns
+](https://arxiv.org/pdf/2009.02114.pdf)
 
 
 ## Golang 
