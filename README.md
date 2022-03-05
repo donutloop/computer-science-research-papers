@@ -139,6 +139,7 @@ AstroDS Data Aggregation Service
 ?](https://arxiv.org/pdf/2010.04944.pdf)
 * [Authentication and authorization in microservice-based systems: survey of architecture patterns
 ](https://arxiv.org/pdf/2009.02114.pdf)
+* [Lessons Learned from Developing a Microservice Based Mobile Location-Based Crowdsourcing Platform](https://arxiv.org/pdf/1909.03596.pdf)
 
 
 ## Golang 
