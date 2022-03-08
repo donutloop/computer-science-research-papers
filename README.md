@@ -167,3 +167,6 @@ the Serverless Workload at a Large Cloud Provider](https://arxiv.org/pdf/2003.03
 * [Kubernetes as an Availability Manager for
 service Applications](https://arxiv.org/pdf/1901.04946.pdf)
 
+## SQL
+
+* [The new and improved SQL:2016 standard](https://www.researchgate.net/publication/329593276_The_new_and_improved_SQL2016_standard)
